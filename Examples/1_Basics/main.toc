@@ -1,0 +1,2 @@
+\contentsline {section}{\numberline {1}Headings are numbered}{1}{}%
+\contentsline {subsection}{\numberline {1.1}sub-headings are also numbered}{1}{}%
